@@ -7,7 +7,7 @@
 
 • Proposta de Resolução para o 'Projeto 02 [Unity]', a ser entregue e apresentado na seguinte data: 28/12/2020.
 
-• Arquivos em C# localizados em: --> PROJ_02_MR-CONDRY_ASSETS/Assets/Scripts
+• Arquivos em C# localizados em [PROJ_02_PROJETO.rar] --> PROJ_02_MR-CONDRY_ASSETS/Assets/Scripts
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 • Nome no Projeto: <Mr. Condry: Into the Infection> 
